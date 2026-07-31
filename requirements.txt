@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pyTelegramBotAPI
-openai
-pandas
-requests
-python-dotenv
